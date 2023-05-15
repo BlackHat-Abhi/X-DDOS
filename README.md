@@ -9,22 +9,22 @@ X-DDOS is A Power Full Ddos Atteck tool
    # INSTALLATION COMMANDS
 
 
- `apt update && apt upgrade `
-  `apt install python3`
-  `apt install pip`
-   `apt install git`
-   `pip3 install requests pysocks`
-    `git clone https://github.com/BlackHat-Abhi/X-DDOS.git`
-  `  ls`
-    `cd X-DDOS`
-  `  ls`
-    `python3 X-DDOS.py`
+`apt update && apt upgrade `
+`apt install python3`
+`apt install pip`
+`apt install git`
+`pip3 install requests pysocks`
+`git clone https://github.com/BlackHat-Abhi/X-DDOS.git`
+`  ls`
+`cd X-DDOS`
+`  ls`
+`python3 X-DDOS.py`
 
 
  
 # Screen Shot 
 
-![photo](https://ibb.co/GR2GDD9)
+<img src="src/a.png">
 
 # X-DDOS
 
@@ -32,7 +32,7 @@ DDoS attacks on your Internet properties, depending on your plan and services. Y
 
 Can you Ddos with proxies? The number of DDOS attacks using anonymous proxies has increased. The number of distributed denial of service attacks using anonymous proxies has increased dramatically over the past year, according to a new research report, as attackers use these proxies to create an instant pseudo-botnet
 
-![photo](https://ibb.co/7bQwJM6)
+<img src="src/a.png">
 
 DDoS Attack means "Distributed Denial-of-Service (DDoS) Attack" and it is a cybercrime in which the attacker floods a server with internet traffic to prevent users from accessing connected online services and sites.
 
