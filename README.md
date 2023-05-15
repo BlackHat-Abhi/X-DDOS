@@ -24,7 +24,7 @@ X-DDOS is A Power Full Ddos Atteck tool
  
 # Screen Shot 
 
-![photo](https://ibb.co/PMmtKXQ)
+![photo](https://ibb.co/GR2GDD9)
 
 # X-DDOS
 
